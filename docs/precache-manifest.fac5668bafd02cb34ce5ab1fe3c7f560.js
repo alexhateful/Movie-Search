@@ -25,10 +25,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "261f22ef50f18c010da606027aee091c",
-    "url": "/static/media/star_grey.261f22ef.png"
+    "url": "/Movie-Search/static/media/star_grey.261f22ef.png"
   },
   {
     "revision": "1c7624aa5d277d6d57a034a82d78a8d3",
-    "url": "/static/media/star_yellow.1c7624aa.png"
+    "url": "/Movie-Search/static/media/star_yellow.1c7624aa.png"
   }
 ]);

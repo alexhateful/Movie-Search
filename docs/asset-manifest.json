@@ -13,7 +13,7 @@
     "service-worker.js": "/service-worker.js",
     "static/css/2.509658c0.chunk.css.map": "/static/css/2.509658c0.chunk.css.map",
     "static/css/main.d498bfb3.chunk.css.map": "/static/css/main.d498bfb3.chunk.css.map",
-    "static/media/star_grey.png": "/static/media/star_grey.261f22ef.png",
-    "static/media/star_yellow.png": "/static/media/star_yellow.1c7624aa.png"
+    "static/media/star_grey.png": "/Movie-Search/static/media/star_grey.261f22ef.png",
+    "static/media/star_yellow.png": "/Movie-Search/static/media/star_yellow.1c7624aa.png"
   }
 }
