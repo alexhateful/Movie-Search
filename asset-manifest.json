@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Movie-Search/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Movie-Search/static/js/main.172d4b7b.chunk.js",
+    "main.js.map": "/Movie-Search/static/js/main.172d4b7b.chunk.js.map",
+    "runtime~main.js": "/Movie-Search/static/js/runtime~main.2f6b2dbd.js",
+    "runtime~main.js.map": "/Movie-Search/static/js/runtime~main.2f6b2dbd.js.map",
+    "static/css/2.509658c0.chunk.css": "/Movie-Search/static/css/2.509658c0.chunk.css",
+    "static/js/2.d3006baa.chunk.js": "/Movie-Search/static/js/2.d3006baa.chunk.js",
+    "static/js/2.d3006baa.chunk.js.map": "/Movie-Search/static/js/2.d3006baa.chunk.js.map",
+    "index.html": "/Movie-Search/index.html",
+    "precache-manifest.bf2fadce29d619c2876801f4a4a14709.js": "/Movie-Search/precache-manifest.bf2fadce29d619c2876801f4a4a14709.js",
+    "service-worker.js": "/Movie-Search/service-worker.js",
+    "static/css/2.509658c0.chunk.css.map": "/Movie-Search/static/css/2.509658c0.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/Movie-Search/static/css/main.d498bfb3.chunk.css.map",
+    "static/media/star_grey.png": "/Movie-Search/static/media/star_grey.261f22ef.png",
+    "static/media/star_yellow.png": "/Movie-Search/static/media/star_yellow.1c7624aa.png"
+  }
+}
