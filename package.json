@@ -2,7 +2,9 @@
   "name": "movie-search",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alexhateful.github.io/Movie-Search/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "glamor": "^2.20.40",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
@@ -22,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
